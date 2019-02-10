@@ -12,3 +12,10 @@
     - record and play back your dreams
 - mind-controlled go-kart (Sayan)
 - mind-controlled smash (Sayan)
+https://www.scientificamerican.com/article/scientist-controls-colleagues-hand-in-first-human-brain-to-brain-interface/
+- Mind-controlled Drone (David)
+- Motion-controlled, detected via EEG, cues
+    - Finger Movements
+    - Body Movements
+    - I'm very interested in investigating the potential of the muse headsets and developing classifications
+    
